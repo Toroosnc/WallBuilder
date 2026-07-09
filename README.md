@@ -1,0 +1,18 @@
+WallBuilder V1.1.0 is a simple Quality of Life mod designed to take the tedium out of construction.
+
+Features:
+1. 3 Tiers of Wall Wands: Basic, Advanced, and Master.
+2. Instant Coverage: Fills background walls in a large area with a single click.
+3. Smart Enclosure Detection: Automatically fills enclosed spaces like houses or rooms, stopping perfectly at solid blocks, platforms, and doors without spilling outside.
+4.Smart Biome Adaptation: Automatically detects your current biome and chooses the matching wood/wall type.
+5.Builder Focused: Optimized for fast arena setups and large house building.
+
+Update
+new wall placement underground in specific biome with unsafe wall, make your farm more monster spawn
+
+Join Discord:
+https://discord.gg/fE67rSUUzb
+
+If you enjoy "Wall Builder" and want to support its
+development, feel free to buy me a coffee:D
+Donate here: https://PayPal.me/AhmadAfilin119
