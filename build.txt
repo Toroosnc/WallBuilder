@@ -1,3 +1,0 @@
-displayName = Wall Builder
-author = Toroosnc
-version = 1.1.0
