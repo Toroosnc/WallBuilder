@@ -1,0 +1,16 @@
+Items: {
+	AdvancedWallWand: {
+		DisplayName: Advanced Wall Wand
+		Tooltip: ""
+	}
+
+	BasicWallWand: {
+		DisplayName: Basic Wall Wand
+		Tooltip: ""
+	}
+
+	MasterWallWand: {
+		DisplayName: Master Wall Wand
+		Tooltip: ""
+	}
+}
