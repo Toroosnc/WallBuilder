@@ -12,7 +12,3 @@ new wall placement underground in specific biome with unsafe wall, make your far
 
 Join Discord:
 https://discord.gg/fE67rSUUzb
-
-If you enjoy "Wall Builder" and want to support its
-development, feel free to buy me a coffee:D
-Donate here: https://PayPal.me/AhmadAfilin119
